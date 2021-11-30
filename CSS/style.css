@@ -37,3 +37,10 @@ h2{
 nav{
 	background-color: #F1FAEE;
 }
+.source{
+	height: 100px;
+	max-width: 70%;
+	margin: 120px 40px 40px;
+	background-color: #F1FAEE;
+	margin: 0 auto;
+}
